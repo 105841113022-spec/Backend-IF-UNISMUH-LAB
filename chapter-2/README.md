@@ -42,4 +42,4 @@
 | Nama | Muh-Dzikri-Alfauzan-Nuzul-FTI22D |
 | NIM | 105841113022 |
 | Tanggal | 19 Februari 2026 |
-| Tanda Tangan | https://github.com/dzikriinzl/NestJs-Backend-Lab.git |
+| Tanda Tangan | https://github.com/105841113022-spec/Backend-IF-UNISMUH-LAB.git |

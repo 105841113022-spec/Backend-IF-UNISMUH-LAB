@@ -170,7 +170,7 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 | NIM | 105841113022 |
 | Tanggal Mulai | 15 Februari 2026 |
 | Tanggal Selesai | 19 Februari 2026 |
-| Tanda Tangan | https://github.com/dzikriinzl/NestJs-Backend-Lab.git |
+| Tanda Tangan | https://github.com/105841113022-spec/Backend-IF-UNISMUH-LAB.git |
 
 ---
 
